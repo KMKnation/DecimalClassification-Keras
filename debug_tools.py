@@ -27,7 +27,10 @@ def plot_images(images, img_shape,cls_true, cls_pred=None):
         if cls_pred is None:
             xlabel = "True: {0}".format(cls_true[i])
         else:
-            xlabel = "True: {0}, Pred: {1}".format(cls_true[i], cls_pred[i])
+            #to find corrrect class index
+            cls = np.where(cls_true[i] == 1)[0][0]
+
+            xlabel = "True: {0}, Pred: {1}".format(cls, cls_pred[i])
 
         # Show the classes as the label on the x-axis.
         ax.set_xlabel(xlabel)
