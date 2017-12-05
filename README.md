@@ -23,5 +23,8 @@ accuracy on testing images : 100 %
 
 '''
 
-.. image:: https://raw.githubusercontent.com/KMKnation/DecimalClassification-Keras/master/visual.png
-     :alt: Demo Image
+## Classes
+### 0 = nondecimal
+### 1 = decimal
+
+<img src="https://raw.githubusercontent.com/KMKnation/DecimalClassification-Keras/master/visual.png" alt="Decimal Classification Visual"/>
