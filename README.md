@@ -22,3 +22,5 @@ accuracy on training images : 99.7 %
 accuracy on testing images : 100 %
 
 '''
+
+.. image:: https://github.com/KMKnation/DecimalClassification-Keras/blob/master/visual.png
