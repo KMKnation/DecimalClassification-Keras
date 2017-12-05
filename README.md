@@ -23,4 +23,4 @@ accuracy on testing images : 100 %
 
 '''
 
-.. image:: https://github.com/KMKnation/DecimalClassification-Keras/blob/master/visual.png
+.. image:: https://raw.githubusercontent.com/KMKnation/DecimalClassification-Keras/master/visual.png
