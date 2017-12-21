@@ -29,3 +29,8 @@ accuracy on testing images : 100 %
 ### 1 = decimal
 
 <img src="https://raw.githubusercontent.com/KMKnation/DecimalClassification-Keras/master/visual.png" alt="Decimal Classification Visual"/>
+
+
+### Found this project useful :heart:
+* Support by clicking the :star: button on the upper right of this page. :v:
+
